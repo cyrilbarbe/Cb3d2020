@@ -1,0 +1,541 @@
+Jan 17 20:34:44 10.71.57.0 u103029009 Connection from 10.71.57.0 port 44542 on 82.165.87.226 port 22
+Jan 17 20:34:49 10.71.57.0 u103029009 Accepted password for u103029009 from 10.71.57.0 port 44542 ssh2
+Jan 17 20:34:49 10.71.57.0 u103029009 Starting session: subsystem 'sftp' for u103029009 from 10.71.57.0 port 44542 id 0
+Jan 17 20:34:49 10.71.57.0 u103029009 session opened for local user u103029009 from [10.71.57.0]
+Jan 17 20:37:07 10.71.56.0 u103029009 Connection from 10.71.56.0 port 47544 on 82.165.87.226 port 22
+Jan 17 20:37:08 10.71.56.0 u103029009 Accepted password for u103029009 from 10.71.56.0 port 47544 ssh2
+Jan 17 20:37:08 10.71.56.0 u103029009 Starting session: subsystem 'sftp' for u103029009 from 10.71.56.0 port 47544 id 0
+Jan 17 20:37:08 10.71.56.0 u103029009 session opened for local user u103029009 from [10.71.56.0]
+Jan 17 20:37:14 10.71.57.0 u103029009 session closed for local user u103029009 from [10.71.57.0]
+Jan 17 20:37:14 10.71.57.0 u103029009 Connection closed by 10.71.57.0 port 44542
+Jan 17 22:37:36 10.71.57.0 u103029009 Connection from 10.71.57.0 port 64676 on 82.165.87.226 port 22
+Jan 17 22:37:36 10.71.57.0 u103029009 Accepted password for u103029009 from 10.71.57.0 port 64676 ssh2
+Jan 17 22:37:36 10.71.57.0 u103029009 Starting session: subsystem 'sftp' for u103029009 from 10.71.57.0 port 64676 id 0
+Jan 17 22:37:36 10.71.57.0 u103029009 Connection from 10.71.57.0 port 64778 on 82.165.87.226 port 22
+Jan 17 22:37:36 10.71.57.0 u103029009 Accepted password for u103029009 from 10.71.57.0 port 64778 ssh2
+Jan 17 22:37:36 10.71.57.0 u103029009 session opened for local user u103029009 from [10.71.57.0]
+Jan 17 22:37:37 10.71.57.0 u103029009 Starting session: subsystem 'sftp' for u103029009 from 10.71.57.0 port 64778 id 0
+Jan 17 22:37:37 10.71.57.0 u103029009 session opened for local user u103029009 from [10.71.57.0]
+Jan 17 22:37:37 10.71.57.0 u103029009 open "/css/minireset.min.css" flags READ mode 0666
+Jan 17 22:37:37 10.71.57.0 u103029009 close "/css/minireset.min.css" bytes read 533 written 0
+Jan 17 22:37:37 10.71.57.0 u103029009 [10.71.57.0|get|0|533|0|0|0|2f6373732f6d696e6972657365742e6d696e2e637373|]
+Jan 17 22:37:37 10.71.57.0 u103029009 open "/css/main.css" flags READ mode 0666
+Jan 17 22:37:37 10.71.57.0 u103029009 close "/css/main.css" bytes read 8365 written 0
+Jan 17 22:37:37 10.71.57.0 u103029009 [10.71.57.0|get|0|8365|0|0|0|2f6373732f6d61696e2e637373|]
+Jan 17 22:37:37 10.71.57.0 u103029009 open "/css/animations.css" flags READ mode 0666
+Jan 17 22:37:37 10.71.57.0 u103029009 close "/css/animations.css" bytes read 2841 written 0
+Jan 17 22:37:37 10.71.57.0 u103029009 [10.71.57.0|get|0|2841|0|0|0|2f6373732f616e696d6174696f6e732e637373|]
+Jan 17 22:37:37 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo@2x.png" flags READ mode 0666
+Jan 17 22:37:37 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo@2x.png" bytes read 256775 written 0
+Jan 17 22:37:37 10.71.57.0 u103029009 [10.71.57.0|get|0|256775|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f4032782e706e67|]
+Jan 17 22:37:37 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo1.png" flags READ mode 0666
+Jan 17 22:37:37 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo1.png" bytes read 94323 written 0
+Jan 17 22:37:37 10.71.57.0 u103029009 [10.71.57.0|get|0|94323|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f312e706e67|]
+Jan 17 22:37:37 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo@4x.png" flags READ mode 0666
+Jan 17 22:37:38 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo@4x.png" bytes read 608695 written 0
+Jan 17 22:37:38 10.71.57.0 u103029009 [10.71.57.0|get|1|608695|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f4034782e706e67|]
+Jan 17 22:37:38 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo@3x.png" flags READ mode 0666
+Jan 17 22:37:38 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo@3x.png" bytes read 433061 written 0
+Jan 17 22:37:38 10.71.57.0 u103029009 [10.71.57.0|get|0|433061|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f4033782e706e67|]
+Jan 17 22:37:38 10.71.57.0 u103029009 open "/Cyril Barbe/images/3x.png" flags READ mode 0666
+Jan 17 22:37:38 10.71.57.0 u103029009 close "/Cyril Barbe/images/3x.png" bytes read 433652 written 0
+Jan 17 22:37:38 10.71.57.0 u103029009 [10.71.57.0|get|0|433652|0|0|0|2f437972696c2042617262652f696d616765732f33782e706e67|]
+Jan 17 22:37:38 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo.png" flags READ mode 0666
+Jan 17 22:37:39 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo.png" bytes read 113889 written 0
+Jan 17 22:37:39 10.71.57.0 u103029009 [10.71.57.0|get|1|113889|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f2e706e67|]
+Jan 17 22:37:39 10.71.57.0 u103029009 open "/Cyril Barbe/images/degrade bas.png" flags READ mode 0666
+Jan 17 22:37:39 10.71.57.0 u103029009 close "/Cyril Barbe/images/degrade bas.png" bytes read 74168 written 0
+Jan 17 22:37:39 10.71.57.0 u103029009 [10.71.57.0|get|0|74168|0|0|0|2f437972696c2042617262652f696d616765732f64656772616465206261732e706e67|]
+Jan 17 22:37:39 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/communication/devanture delicate saine.jpg" flags READ mode 0666
+Jan 17 22:37:39 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/communication/devanture delicate saine.jpg" bytes read 76225 written 0
+Jan 17 22:37:39 10.71.57.0 u103029009 [10.71.57.0|get|0|76225|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f646576616e747572652064656c6963617465207361696e652e6a7067|]
+Jan 17 22:37:39 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/communication/affiche delicate et saine.jpg" flags READ mode 0666
+Jan 17 22:37:40 10.71.56.0 u103029009 sent status No such file
+Jan 17 22:37:44 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/communication/affiche delicate et saine.jpg" bytes read 12816694 written 0
+Jan 17 22:37:44 10.71.57.0 u103029009 [10.71.57.0|get|5|12816694|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f616666696368652064656c6963617465206574207361696e652e6a7067|]
+Jan 17 22:37:44 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/communication/delicate saine.jpg" flags READ mode 0666
+Jan 17 22:37:44 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/communication/delicate saine.jpg" bytes read 17242 written 0
+Jan 17 22:37:44 10.71.57.0 u103029009 [10.71.57.0|get|0|17242|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f64656c6963617465207361696e652e6a7067|]
+Jan 17 22:37:44 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/west.jpg" flags READ mode 0666
+Jan 17 22:37:44 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/west.jpg" bytes read 78217 written 0
+Jan 17 22:37:44 10.71.57.0 u103029009 [10.71.57.0|get|0|78217|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f776573742e6a7067|]
+Jan 17 22:37:44 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/trap trunks.jpg" flags READ mode 0666
+Jan 17 22:37:44 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/trap trunks.jpg" bytes read 157101 written 0
+Jan 17 22:37:44 10.71.57.0 u103029009 [10.71.57.0|get|0|157101|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f74726170207472756e6b732e6a7067|]
+Jan 17 22:37:44 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/str8drop.jpg" flags READ mode 0666
+Jan 17 22:37:44 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/str8drop.jpg" bytes read 119181 written 0
+Jan 17 22:37:44 10.71.57.0 u103029009 [10.71.57.0|get|0|119181|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7374723864726f702e6a7067|]
+Jan 17 22:37:44 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/smoke.png" flags READ mode 0666
+Jan 17 22:37:45 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/smoke.png" bytes read 1063175 written 0
+Jan 17 22:37:45 10.71.57.0 u103029009 [10.71.57.0|get|1|1063175|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f736d6f6b652e706e67|]
+Jan 17 22:37:45 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/pop.png" flags READ mode 0666
+Jan 17 22:37:45 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/pop.png" bytes read 878295 written 0
+Jan 17 22:37:45 10.71.57.0 u103029009 [10.71.57.0|get|0|878295|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f706f702e706e67|]
+Jan 17 22:37:45 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/peewee.jpg" flags READ mode 0666
+Jan 17 22:37:45 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/peewee.jpg" bytes read 243686 written 0
+Jan 17 22:37:45 10.71.57.0 u103029009 [10.71.57.0|get|0|243686|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7065657765652e6a7067|]
+Jan 17 22:37:45 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/nabs.jpg" flags READ mode 0666
+Jan 17 22:37:45 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/nabs.jpg" bytes read 96920 written 0
+Jan 17 22:37:45 10.71.57.0 u103029009 [10.71.57.0|get|0|96920|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f6e6162732e6a7067|]
+Jan 17 22:37:45 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/ill litterate.jpg" flags READ mode 0666
+Jan 17 22:37:45 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/ill litterate.jpg" bytes read 113608 written 0
+Jan 17 22:37:45 10.71.57.0 u103029009 [10.71.57.0|get|0|113608|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f696c6c206c69747465726174652e6a7067|]
+Jan 17 22:37:45 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche3.jpg" flags READ mode 0666
+Jan 17 22:37:45 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche3.jpg" bytes read 175942 written 0
+Jan 17 22:37:45 10.71.57.0 u103029009 [10.71.57.0|get|0|175942|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865332e6a7067|]
+Jan 17 22:37:46 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche2.jpg" flags READ mode 0666
+Jan 17 22:37:46 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche2.jpg" bytes read 384753 written 0
+Jan 17 22:37:46 10.71.57.0 u103029009 [10.71.57.0|get|0|384753|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865322e6a7067|]
+Jan 17 22:37:46 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche1.jpg" flags READ mode 0666
+Jan 17 22:37:46 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche1.jpg" bytes read 321474 written 0
+Jan 17 22:37:46 10.71.57.0 u103029009 [10.71.57.0|get|0|321474|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865312e6a7067|]
+Jan 17 22:37:46 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche.jpg" flags READ mode 0666
+Jan 17 22:37:46 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche.jpg" bytes read 156264 written 0
+Jan 17 22:37:46 10.71.57.0 u103029009 [10.71.57.0|get|0|156264|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f6368652e6a7067|]
+Jan 17 22:37:46 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" flags READ mode 0666
+Jan 17 22:37:48 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" bytes read 4912637 written 0
+Jan 17 22:37:48 10.71.57.0 u103029009 [10.71.57.0|get|2|4912637|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320314032782e6a7067|]
+Jan 17 22:37:48 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1.png" flags READ mode 0666
+Jan 17 22:37:49 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1.png" bytes read 2803216 written 0
+Jan 17 22:37:49 10.71.57.0 u103029009 [10.71.57.0|get|1|2803216|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320312e706e67|]
+Jan 17 22:37:49 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/sitemma.jpg" flags READ mode 0666
+Jan 17 22:37:49 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/sitemma.jpg" bytes read 342119 written 0
+Jan 17 22:37:49 10.71.57.0 u103029009 [10.71.57.0|get|0|342119|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f736974656d6d612e6a7067|]
+Jan 17 22:37:49 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/site MMA.png" flags READ mode 0666
+Jan 17 22:37:50 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/site MMA.png" bytes read 803333 written 0
+Jan 17 22:37:50 10.71.57.0 u103029009 [10.71.57.0|get|1|803333|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f73697465204d4d412e706e67|]
+Jan 17 22:37:50 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/next.jpg" flags READ mode 0666
+Jan 17 22:37:50 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/next.jpg" bytes read 27011 written 0
+Jan 17 22:37:50 10.71.57.0 u103029009 [10.71.57.0|get|0|27011|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f6e6578742e6a7067|]
+Jan 17 22:37:50 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/news1.jpg" flags READ mode 0666
+Jan 17 22:37:50 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/news1.jpg" bytes read 506045 written 0
+Jan 17 22:37:50 10.71.57.0 u103029009 [10.71.57.0|get|0|506045|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f6e657773312e6a7067|]
+Jan 17 22:37:50 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/hospital.jpg" flags READ mode 0666
+Jan 17 22:37:51 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/hospital.jpg" bytes read 291956 written 0
+Jan 17 22:37:51 10.71.57.0 u103029009 [10.71.57.0|get|1|291956|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f686f73706974616c2e6a7067|]
+Jan 17 22:37:51 10.71.57.0 u103029009 open "/images/logo@4x.png" flags READ mode 0666
+Jan 17 22:37:51 10.71.57.0 u103029009 close "/images/logo@4x.png" bytes read 608695 written 0
+Jan 17 22:37:51 10.71.57.0 u103029009 [10.71.57.0|get|0|608695|0|0|0|2f696d616765732f6c6f676f4034782e706e67|]
+Jan 17 22:37:51 10.71.57.0 u103029009 open "/images/logo@3x.png" flags READ mode 0666
+Jan 17 22:37:51 10.71.57.0 u103029009 close "/images/logo@3x.png" bytes read 433061 written 0
+Jan 17 22:37:51 10.71.57.0 u103029009 [10.71.57.0|get|0|433061|0|0|0|2f696d616765732f6c6f676f4033782e706e67|]
+Jan 17 22:37:52 10.71.57.0 u103029009 open "/images/logo@2x.png" flags READ mode 0666
+Jan 17 22:37:52 10.71.57.0 u103029009 close "/images/logo@2x.png" bytes read 256775 written 0
+Jan 17 22:37:52 10.71.57.0 u103029009 [10.71.57.0|get|0|256775|0|0|0|2f696d616765732f6c6f676f4032782e706e67|]
+Jan 17 22:37:52 10.71.57.0 u103029009 open "/images/logo1.png" flags READ mode 0666
+Jan 17 22:37:52 10.71.57.0 u103029009 close "/images/logo1.png" bytes read 94323 written 0
+Jan 17 22:37:52 10.71.57.0 u103029009 [10.71.57.0|get|0|94323|0|0|0|2f696d616765732f6c6f676f312e706e67|]
+Jan 17 22:37:52 10.71.57.0 u103029009 open "/images/logo.png" flags READ mode 0666
+Jan 17 22:37:52 10.71.57.0 u103029009 close "/images/logo.png" bytes read 113889 written 0
+Jan 17 22:37:52 10.71.57.0 u103029009 [10.71.57.0|get|0|113889|0|0|0|2f696d616765732f6c6f676f2e706e67|]
+Jan 17 22:37:52 10.71.57.0 u103029009 open "/images/degrade bas.png" flags READ mode 0666
+Jan 17 22:37:52 10.71.57.0 u103029009 close "/images/degrade bas.png" bytes read 74168 written 0
+Jan 17 22:37:52 10.71.57.0 u103029009 [10.71.57.0|get|0|74168|0|0|0|2f696d616765732f64656772616465206261732e706e67|]
+Jan 17 22:37:52 10.71.57.0 u103029009 open "/images/3x.png" flags READ mode 0666
+Jan 17 22:37:53 10.71.57.0 u103029009 close "/images/3x.png" bytes read 433652 written 0
+Jan 17 22:37:53 10.71.57.0 u103029009 [10.71.57.0|get|1|433652|0|0|0|2f696d616765732f33782e706e67|]
+Jan 17 22:37:53 10.71.57.0 u103029009 open "/images/projet/communication/devanture delicate saine.jpg" flags READ mode 0666
+Jan 17 22:37:53 10.71.57.0 u103029009 close "/images/projet/communication/devanture delicate saine.jpg" bytes read 76225 written 0
+Jan 17 22:37:53 10.71.57.0 u103029009 [10.71.57.0|get|0|76225|0|0|0|2f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f646576616e747572652064656c6963617465207361696e652e6a7067|]
+Jan 17 22:37:53 10.71.57.0 u103029009 open "/images/projet/communication/affiche delicate et saine.jpg" flags READ mode 0666
+Jan 17 22:37:57 10.71.57.0 u103029009 close "/images/projet/communication/affiche delicate et saine.jpg" bytes read 12816694 written 0
+Jan 17 22:37:57 10.71.57.0 u103029009 [10.71.57.0|get|4|12816694|0|0|0|2f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f616666696368652064656c6963617465206574207361696e652e6a7067|]
+Jan 17 22:37:57 10.71.57.0 u103029009 open "/images/projet/communication/delicate saine.jpg" flags READ mode 0666
+Jan 17 22:37:57 10.71.57.0 u103029009 open "/index.html" flags READ mode 0666
+Jan 17 22:37:57 10.71.57.0 u103029009 close "/images/projet/communication/delicate saine.jpg" bytes read 17242 written 0
+Jan 17 22:37:57 10.71.57.0 u103029009 [10.71.57.0|get|0|17242|0|0|0|2f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f64656c6963617465207361696e652e6a7067|]
+Jan 17 22:37:57 10.71.57.0 u103029009 close "/index.html" bytes read 5287 written 0
+Jan 17 22:37:57 10.71.57.0 u103029009 [10.71.57.0|get|0|5287|0|0|0|2f696e6465782e68746d6c|]
+Jan 17 22:37:57 10.71.57.0 u103029009 open "/images/projet/creation graphique/west.jpg" flags READ mode 0666
+Jan 17 22:37:57 10.71.57.0 u103029009 open "/images/projet/creation graphique/trap trunks.jpg" flags READ mode 0666
+Jan 17 22:37:57 10.71.57.0 u103029009 close "/images/projet/creation graphique/west.jpg" bytes read 78217 written 0
+Jan 17 22:37:57 10.71.57.0 u103029009 [10.71.57.0|get|0|78217|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f776573742e6a7067|]
+Jan 17 22:37:57 10.71.57.0 u103029009 open "/images/projet/creation graphique/str8drop.jpg" flags READ mode 0666
+Jan 17 22:37:57 10.71.57.0 u103029009 close "/images/projet/creation graphique/trap trunks.jpg" bytes read 157101 written 0
+Jan 17 22:37:57 10.71.57.0 u103029009 [10.71.57.0|get|0|157101|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f74726170207472756e6b732e6a7067|]
+Jan 17 22:37:57 10.71.57.0 u103029009 open "/images/projet/creation graphique/smoke.png" flags READ mode 0666
+Jan 17 22:37:57 10.71.57.0 u103029009 close "/images/projet/creation graphique/str8drop.jpg" bytes read 119181 written 0
+Jan 17 22:37:57 10.71.57.0 u103029009 [10.71.57.0|get|0|119181|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7374723864726f702e6a7067|]
+Jan 17 22:37:58 10.71.57.0 u103029009 open "/images/projet/creation graphique/pop.png" flags READ mode 0666
+Jan 17 22:37:58 10.71.57.0 u103029009 close "/images/projet/creation graphique/smoke.png" bytes read 1063175 written 0
+Jan 17 22:37:58 10.71.57.0 u103029009 [10.71.57.0|get|1|1063175|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f736d6f6b652e706e67|]
+Jan 17 22:37:58 10.71.57.0 u103029009 close "/images/projet/creation graphique/pop.png" bytes read 878295 written 0
+Jan 17 22:37:58 10.71.57.0 u103029009 [10.71.57.0|get|0|878295|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f706f702e706e67|]
+Jan 17 22:37:58 10.71.57.0 u103029009 open "/images/projet/creation graphique/peewee.jpg" flags READ mode 0666
+Jan 17 22:37:58 10.71.57.0 u103029009 open "/images/projet/creation graphique/nabs.jpg" flags READ mode 0666
+Jan 17 22:37:59 10.71.57.0 u103029009 close "/images/projet/creation graphique/nabs.jpg" bytes read 96920 written 0
+Jan 17 22:37:59 10.71.57.0 u103029009 [10.71.57.0|get|1|96920|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f6e6162732e6a7067|]
+Jan 17 22:37:59 10.71.57.0 u103029009 close "/images/projet/creation graphique/peewee.jpg" bytes read 243686 written 0
+Jan 17 22:37:59 10.71.57.0 u103029009 [10.71.57.0|get|1|243686|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7065657765652e6a7067|]
+Jan 17 22:37:59 10.71.57.0 u103029009 open "/images/projet/creation graphique/ill litterate.jpg" flags READ mode 0666
+Jan 17 22:37:59 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche3.jpg" flags READ mode 0666
+Jan 17 22:37:59 10.71.57.0 u103029009 close "/images/projet/creation graphique/ill litterate.jpg" bytes read 113608 written 0
+Jan 17 22:37:59 10.71.57.0 u103029009 [10.71.57.0|get|0|113608|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f696c6c206c69747465726174652e6a7067|]
+Jan 17 22:37:59 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche3.jpg" bytes read 175942 written 0
+Jan 17 22:37:59 10.71.57.0 u103029009 [10.71.57.0|get|0|175942|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865332e6a7067|]
+Jan 17 22:37:59 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche2.jpg" flags READ mode 0666
+Jan 17 22:37:59 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche1.jpg" flags READ mode 0666
+Jan 17 22:38:00 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche2.jpg" bytes read 384753 written 0
+Jan 17 22:38:00 10.71.57.0 u103029009 [10.71.57.0|get|1|384753|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865322e6a7067|]
+Jan 17 22:38:00 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche1.jpg" bytes read 321474 written 0
+Jan 17 22:38:00 10.71.57.0 u103029009 [10.71.57.0|get|1|321474|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865312e6a7067|]
+Jan 17 22:38:00 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche.jpg" flags READ mode 0666
+Jan 17 22:38:00 10.71.57.0 u103029009 open "/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" flags READ mode 0666
+Jan 17 22:38:00 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche.jpg" bytes read 156264 written 0
+Jan 17 22:38:00 10.71.57.0 u103029009 [10.71.57.0|get|0|156264|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f6368652e6a7067|]
+Jan 17 22:38:00 10.71.57.0 u103029009 open "/images/projet/site/W eb 1920 \342\200\223 1.png" flags READ mode 0666
+Jan 17 22:38:02 10.71.57.0 u103029009 close "/images/projet/site/W eb 1920 \342\200\223 1.png" bytes read 2803216 written 0
+Jan 17 22:38:02 10.71.57.0 u103029009 [10.71.57.0|get|2|2803216|0|0|0|2f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320312e706e67|]
+Jan 17 22:38:02 10.71.57.0 u103029009 open "/images/projet/site/sitemma.jpg" flags READ mode 0666
+Jan 17 22:38:02 10.71.57.0 u103029009 close "/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" bytes read 4912637 written 0
+Jan 17 22:38:02 10.71.57.0 u103029009 [10.71.57.0|get|2|4912637|0|0|0|2f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320314032782e6a7067|]
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/images/projet/site/sitemma.jpg" bytes read 342119 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|1|342119|0|0|0|2f696d616765732f70726f6a65742f736974652f736974656d6d612e6a7067|]
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/images/projet/site/site MMA.png" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/images/projet/site/next.jpg" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/images/projet/site/next.jpg" bytes read 27011 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|27011|0|0|0|2f696d616765732f70726f6a65742f736974652f6e6578742e6a7067|]
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/images/projet/site/news1.jpg" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/images/projet/site/site MMA.png" bytes read 803333 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|803333|0|0|0|2f696d616765732f70726f6a65742f736974652f73697465204d4d412e706e67|]
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/images/projet/site/hospital.jpg" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/images/projet/site/hospital.jpg" bytes read 291956 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|291956|0|0|0|2f696d616765732f70726f6a65742f736974652f686f73706974616c2e6a7067|]
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/images/projet/site/news1.jpg" bytes read 506045 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|506045|0|0|0|2f696d616765732f70726f6a65742f736974652f6e657773312e6a7067|]
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/logs/access.log.02.7.gz" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/js/main.js" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/logs/access.log.02.7.gz" bytes read 1043 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|1043|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e372e677a|]
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/js/main.js" bytes read 857 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|857|0|0|0|2f6a732f6d61696e2e6a73|]
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/logs/access.log.02.4.gz" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/logs/access.log.02.2.gz" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/logs/access.log.02.4.gz" bytes read 1823 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|1823|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e342e677a|]
+Jan 17 22:38:03 10.71.57.0 u103029009 open "/logs/access.log.02.1.gz" flags READ mode 0666
+Jan 17 22:38:03 10.71.57.0 u103029009 close "/logs/access.log.02.2.gz" bytes read 1900 written 0
+Jan 17 22:38:03 10.71.57.0 u103029009 [10.71.57.0|get|0|1900|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e322e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.02.1.gz" bytes read 1307 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.52.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|1|1307|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e312e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.52.gz" bytes read 4946 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|4946|0|0|0|2f6c6f67732f6163636573732e6c6f672e35322e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/sftp.log" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/sftp.log" bytes read 27250 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|27250|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.51.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.48.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.51.gz" bytes read 5863 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|5863|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.48.gz" bytes read 5283 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|5283|0|0|0|2f6c6f67732f6163636573732e6c6f672e34382e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.03.1" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.02.5.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.03.1" bytes read 35629 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|35629|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e31|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.02.5.gz" bytes read 1294 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|1294|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e352e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.02.3.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.50.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.02.3.gz" bytes read 1375 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|1375|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e332e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.50.gz" bytes read 4261 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|4261|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.02.6.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.47.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.02.6.gz" bytes read 934 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|934|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e362e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.47.gz" bytes read 4820 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|4820|0|0|0|2f6c6f67732f6163636573732e6c6f672e34372e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.01.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/access.log.49.gz" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.01.gz" bytes read 4613 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|4613|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/access.log.49.gz" bytes read 5282 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|5282|0|0|0|2f6c6f67732f6163636573732e6c6f672e34392e677a|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/last_traffic" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/traffic.db" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/last_traffic" bytes read 0 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/info.py" flags READ mode 0666
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/traffic.db" bytes read 49152 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|49152|0|0|0|2f6c6f67732f747261666669632e6462|]
+Jan 17 22:38:04 10.71.57.0 u103029009 close "/logs/info.py" bytes read 6384 written 0
+Jan 17 22:38:04 10.71.57.0 u103029009 [10.71.57.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Jan 17 22:38:04 10.71.57.0 u103029009 open "/logs/info.php5" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/info.pl" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/info.php5" bytes read 21 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|1|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/info.pl" bytes read 4176 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/.htaccess" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/.htaccess" bytes read 268 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|268|0|0|0|2f6c6f67732f2e6874616363657373|]
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/11.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/11.html" bytes read 11312 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11312|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/10.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/09.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/10.html" bytes read 11659 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11659|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/09.html" bytes read 11312 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11312|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/08.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/07.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/07.html" bytes read 11655 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/08.html" bytes read 11643 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11643|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11655|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/06.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/05.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/06.html" bytes read 11308 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11308|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/05.html" bytes read 11667 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11667|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/04.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/03.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/04.html" bytes read 11288 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11288|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/03.html" bytes read 11635 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|11635|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/02.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 open "/logs/traffic.html/01.html" flags READ mode 0666
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/02.html" bytes read 10606 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|10606|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Jan 17 22:38:05 10.71.57.0 u103029009 close "/logs/traffic.html/01.html" bytes read 6502 written 0
+Jan 17 22:38:05 10.71.57.0 u103029009 [10.71.57.0|get|0|6502|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Jan 17 22:38:06 10.71.57.0 u103029009 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 17 22:38:06 10.71.57.0 u103029009 sent status Permission denied
+Jan 17 22:38:06 10.71.57.0 u103029009 open "/logs/traffic.html/12.html" flags READ mode 0666
+Jan 17 22:38:06 10.71.57.0 u103029009 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 17 22:38:06 10.71.57.0 u103029009 sent status Permission denied
+Jan 17 22:38:06 10.71.57.0 u103029009 close "/logs/traffic.html/12.html" bytes read 11631 written 0
+Jan 17 22:38:06 10.71.57.0 u103029009 [10.71.57.0|get|0|11631|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Jan 17 22:38:06 10.71.57.0 u103029009 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 17 22:38:06 10.71.57.0 u103029009 sent status Permission denied
+Jan 17 22:38:06 10.71.57.0 u103029009 open "/logs/traffic.html/index.html" flags READ mode 0666
+Jan 17 22:38:06 10.71.57.0 u103029009 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Jan 17 22:38:06 10.71.57.0 u103029009 close "/logs/traffic.html/index.html" bytes read 7561 written 0
+Jan 17 22:38:06 10.71.57.0 u103029009 [10.71.57.0|get|0|7561|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Jan 17 22:38:06 10.71.57.0 u103029009 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Jan 17 22:38:06 10.71.57.0 u103029009 [10.71.57.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Jan 17 22:38:06 10.71.57.0 u103029009 open "/logs/access.log.03.1" flags READ mode 0666
+Jan 17 22:38:06 10.71.57.0 u103029009 close "/logs/access.log.03.1" bytes read 35629 written 0
+Jan 17 22:38:06 10.71.57.0 u103029009 [10.71.57.0|get|0|35629|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e31|]
+Jan 17 22:39:06 10.71.57.0 u103029009 session closed for local user u103029009 from [10.71.57.0]
+Jan 17 22:39:06 10.71.57.0 u103029009 Connection closed by 10.71.57.0 port 64676
+Jan 17 22:39:06 10.71.57.0 u103029009 session closed for local user u103029009 from [10.71.57.0]
+Jan 17 22:39:06 10.71.57.0 u103029009 Connection closed by 10.71.57.0 port 64778
+Jan 17 22:39:17 10.71.56.0 u103029009 sent status No such file
+Jan 17 22:39:17 10.71.57.0 u103029009 Connection from 10.71.57.0 port 33900 on 82.165.87.226 port 22
+Jan 17 22:39:18 10.71.57.0 u103029009 Accepted password for u103029009 from 10.71.57.0 port 33900 ssh2
+Jan 17 22:39:17 10.71.57.0 u103029009 Connection from 10.71.57.0 port 33930 on 82.165.87.226 port 22
+Jan 17 22:39:18 10.71.57.0 u103029009 Accepted password for u103029009 from 10.71.57.0 port 33930 ssh2
+Jan 17 22:39:18 10.71.57.0 u103029009 Starting session: subsystem 'sftp' for u103029009 from 10.71.57.0 port 33900 id 0
+Jan 17 22:39:18 10.71.57.0 u103029009 session opened for local user u103029009 from [10.71.57.0]
+Jan 17 22:39:18 10.71.57.0 u103029009 Starting session: subsystem 'sftp' for u103029009 from 10.71.57.0 port 33930 id 0
+Jan 17 22:39:18 10.71.57.0 u103029009 session opened for local user u103029009 from [10.71.57.0]
+Jan 17 22:39:18 10.71.57.0 u103029009 open "/index.html" flags READ mode 0666
+Jan 17 22:39:18 10.71.57.0 u103029009 close "/index.html" bytes read 5287 written 0
+Jan 17 22:39:18 10.71.57.0 u103029009 [10.71.57.0|get|0|5287|0|0|0|2f696e6465782e68746d6c|]
+Jan 17 22:39:18 10.71.57.0 u103029009 open "/css/minireset.min.css" flags READ mode 0666
+Jan 17 22:39:18 10.71.57.0 u103029009 close "/css/minireset.min.css" bytes read 533 written 0
+Jan 17 22:39:18 10.71.57.0 u103029009 [10.71.57.0|get|0|533|0|0|0|2f6373732f6d696e6972657365742e6d696e2e637373|]
+Jan 17 22:39:18 10.71.57.0 u103029009 open "/css/animations.css" flags READ mode 0666
+Jan 17 22:39:18 10.71.57.0 u103029009 open "/css/main.css" flags READ mode 0666
+Jan 17 22:39:18 10.71.57.0 u103029009 close "/css/main.css" bytes read 8365 written 0
+Jan 17 22:39:18 10.71.57.0 u103029009 [10.71.57.0|get|0|8365|0|0|0|2f6373732f6d61696e2e637373|]
+Jan 17 22:39:18 10.71.57.0 u103029009 close "/css/animations.css" bytes read 2841 written 0
+Jan 17 22:39:18 10.71.57.0 u103029009 [10.71.57.0|get|0|2841|0|0|0|2f6373732f616e696d6174696f6e732e637373|]
+Jan 17 22:39:18 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo@2x.png" flags READ mode 0666
+Jan 17 22:39:18 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo1.png" flags READ mode 0666
+Jan 17 22:39:19 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo1.png" bytes read 94323 written 0
+Jan 17 22:39:19 10.71.57.0 u103029009 [10.71.57.0|get|1|94323|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f312e706e67|]
+Jan 17 22:39:19 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo@4x.png" flags READ mode 0666
+Jan 17 22:39:19 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo@2x.png" bytes read 256775 written 0
+Jan 17 22:39:19 10.71.57.0 u103029009 [10.71.57.0|get|1|256775|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f4032782e706e67|]
+Jan 17 22:39:19 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo@3x.png" flags READ mode 0666
+Jan 17 22:39:19 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo@4x.png" bytes read 608695 written 0
+Jan 17 22:39:19 10.71.57.0 u103029009 [10.71.57.0|get|0|608695|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f4034782e706e67|]
+Jan 17 22:39:19 10.71.57.0 u103029009 open "/Cyril Barbe/images/3x.png" flags READ mode 0666
+Jan 17 22:39:19 10.71.57.0 u103029009 close "/Cyril Barbe/images/3x.png" bytes read 433652 written 0
+Jan 17 22:39:19 10.71.57.0 u103029009 [10.71.57.0|get|0|433652|0|0|0|2f437972696c2042617262652f696d616765732f33782e706e67|]
+Jan 17 22:39:19 10.71.57.0 u103029009 open "/Cyril Barbe/images/logo.png" flags READ mode 0666
+Jan 17 22:39:19 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo@3x.png" bytes read 433061 written 0
+Jan 17 22:39:19 10.71.57.0 u103029009 [10.71.57.0|get|0|433061|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f4033782e706e67|]
+Jan 17 22:39:19 10.71.57.0 u103029009 close "/Cyril Barbe/images/logo.png" bytes read 113889 written 0
+Jan 17 22:39:19 10.71.57.0 u103029009 [10.71.57.0|get|0|113889|0|0|0|2f437972696c2042617262652f696d616765732f6c6f676f2e706e67|]
+Jan 17 22:39:19 10.71.57.0 u103029009 open "/Cyril Barbe/images/degrade bas.png" flags READ mode 0666
+Jan 17 22:39:19 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/communication/devanture delicate saine.jpg" flags READ mode 0666
+Jan 17 22:39:20 10.71.57.0 u103029009 close "/Cyril Barbe/images/degrade bas.png" bytes read 74168 written 0
+Jan 17 22:39:20 10.71.57.0 u103029009 [10.71.57.0|get|1|74168|0|0|0|2f437972696c2042617262652f696d616765732f64656772616465206261732e706e67|]
+Jan 17 22:39:20 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/communication/devanture delicate saine.jpg" bytes read 76225 written 0
+Jan 17 22:39:20 10.71.57.0 u103029009 [10.71.57.0|get|1|76225|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f646576616e747572652064656c6963617465207361696e652e6a7067|]
+Jan 17 22:39:20 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/communication/delicate saine.jpg" flags READ mode 0666
+Jan 17 22:39:20 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/communication/affiche delicate et saine.jpg" flags READ mode 0666
+Jan 17 22:39:20 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/communication/delicate saine.jpg" bytes read 17242 written 0
+Jan 17 22:39:20 10.71.57.0 u103029009 [10.71.57.0|get|0|17242|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f64656c6963617465207361696e652e6a7067|]
+Jan 17 22:39:20 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/west.jpg" flags READ mode 0666
+Jan 17 22:39:20 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/west.jpg" bytes read 78217 written 0
+Jan 17 22:39:20 10.71.57.0 u103029009 [10.71.57.0|get|0|78217|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f776573742e6a7067|]
+Jan 17 22:39:20 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/trap trunks.jpg" flags READ mode 0666
+Jan 17 22:39:20 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/trap trunks.jpg" bytes read 157101 written 0
+Jan 17 22:39:20 10.71.57.0 u103029009 [10.71.57.0|get|0|157101|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f74726170207472756e6b732e6a7067|]
+Jan 17 22:39:20 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/str8drop.jpg" flags READ mode 0666
+Jan 17 22:39:20 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/str8drop.jpg" bytes read 119181 written 0
+Jan 17 22:39:20 10.71.57.0 u103029009 [10.71.57.0|get|0|119181|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7374723864726f702e6a7067|]
+Jan 17 22:39:21 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/smoke.png" flags READ mode 0666
+Jan 17 22:39:23 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/smoke.png" bytes read 1063175 written 0
+Jan 17 22:39:23 10.71.57.0 u103029009 [10.71.57.0|get|2|1063175|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f736d6f6b652e706e67|]
+Jan 17 22:39:23 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/pop.png" flags READ mode 0666
+Jan 17 22:39:24 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/pop.png" bytes read 878295 written 0
+Jan 17 22:39:24 10.71.57.0 u103029009 [10.71.57.0|get|1|878295|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f706f702e706e67|]
+Jan 17 22:39:25 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/peewee.jpg" flags READ mode 0666
+Jan 17 22:39:25 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/peewee.jpg" bytes read 243686 written 0
+Jan 17 22:39:25 10.71.57.0 u103029009 [10.71.57.0|get|0|243686|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7065657765652e6a7067|]
+Jan 17 22:39:25 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/nabs.jpg" flags READ mode 0666
+Jan 17 22:39:26 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/nabs.jpg" bytes read 96920 written 0
+Jan 17 22:39:26 10.71.57.0 u103029009 [10.71.57.0|get|1|96920|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f6e6162732e6a7067|]
+Jan 17 22:39:26 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/ill litterate.jpg" flags READ mode 0666
+Jan 17 22:39:27 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/communication/affiche delicate et saine.jpg" bytes read 12816694 written 0
+Jan 17 22:39:27 10.71.57.0 u103029009 [10.71.57.0|get|7|12816694|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f616666696368652064656c6963617465206574207361696e652e6a7067|]
+Jan 17 22:39:27 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/ill litterate.jpg" bytes read 113608 written 0
+Jan 17 22:39:27 10.71.57.0 u103029009 [10.71.57.0|get|1|113608|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f696c6c206c69747465726174652e6a7067|]
+Jan 17 22:39:27 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche2.jpg" flags READ mode 0666
+Jan 17 22:39:27 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche3.jpg" flags READ mode 0666
+Jan 17 22:39:27 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche3.jpg" bytes read 175942 written 0
+Jan 17 22:39:27 10.71.57.0 u103029009 [10.71.57.0|get|0|175942|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865332e6a7067|]
+Jan 17 22:39:27 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche1.jpg" flags READ mode 0666
+Jan 17 22:39:27 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche1.jpg" bytes read 321474 written 0
+Jan 17 22:39:27 10.71.57.0 u103029009 [10.71.57.0|get|0|321474|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865312e6a7067|]
+Jan 17 22:39:28 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/creation graphique/andoche.jpg" flags READ mode 0666
+Jan 17 22:39:28 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche2.jpg" bytes read 384753 written 0
+Jan 17 22:39:28 10.71.57.0 u103029009 [10.71.57.0|get|1|384753|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865322e6a7067|]
+Jan 17 22:39:28 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/creation graphique/andoche.jpg" bytes read 156264 written 0
+Jan 17 22:39:28 10.71.57.0 u103029009 [10.71.57.0|get|0|156264|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f6368652e6a7067|]
+Jan 17 22:39:28 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" flags READ mode 0666
+Jan 17 22:39:28 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1.png" flags READ mode 0666
+Jan 17 22:39:30 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1.png" bytes read 2803216 written 0
+Jan 17 22:39:30 10.71.57.0 u103029009 [10.71.57.0|get|2|2803216|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320312e706e67|]
+Jan 17 22:39:30 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/sitemma.jpg" flags READ mode 0666
+Jan 17 22:39:31 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/sitemma.jpg" bytes read 342119 written 0
+Jan 17 22:39:31 10.71.57.0 u103029009 [10.71.57.0|get|1|342119|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f736974656d6d612e6a7067|]
+Jan 17 22:39:31 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/site MMA.png" flags READ mode 0666
+Jan 17 22:39:32 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/site MMA.png" bytes read 803333 written 0
+Jan 17 22:39:32 10.71.57.0 u103029009 [10.71.57.0|get|1|803333|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f73697465204d4d412e706e67|]
+Jan 17 22:39:32 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" bytes read 4912637 written 0
+Jan 17 22:39:32 10.71.57.0 u103029009 [10.71.57.0|get|4|4912637|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320314032782e6a7067|]
+Jan 17 22:39:32 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/next.jpg" flags READ mode 0666
+Jan 17 22:39:32 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/news1.jpg" flags READ mode 0666
+Jan 17 22:39:32 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/next.jpg" bytes read 27011 written 0
+Jan 17 22:39:32 10.71.57.0 u103029009 [10.71.57.0|get|0|27011|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f6e6578742e6a7067|]
+Jan 17 22:39:33 10.71.57.0 u103029009 open "/Cyril Barbe/images/projet/site/hospital.jpg" flags READ mode 0666
+Jan 17 22:39:33 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/news1.jpg" bytes read 506045 written 0
+Jan 17 22:39:33 10.71.57.0 u103029009 [10.71.57.0|get|1|506045|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f6e657773312e6a7067|]
+Jan 17 22:39:33 10.71.57.0 u103029009 close "/Cyril Barbe/images/projet/site/hospital.jpg" bytes read 291956 written 0
+Jan 17 22:39:33 10.71.57.0 u103029009 [10.71.57.0|get|0|291956|0|0|0|2f437972696c2042617262652f696d616765732f70726f6a65742f736974652f686f73706974616c2e6a7067|]
+Jan 17 22:39:33 10.71.57.0 u103029009 open "/images/logo@4x.png" flags READ mode 0666
+Jan 17 22:39:33 10.71.57.0 u103029009 open "/images/logo@3x.png" flags READ mode 0666
+Jan 17 22:39:33 10.71.57.0 u103029009 close "/images/logo@4x.png" bytes read 608695 written 0
+Jan 17 22:39:33 10.71.57.0 u103029009 [10.71.57.0|get|0|608695|0|0|0|2f696d616765732f6c6f676f4034782e706e67|]
+Jan 17 22:39:33 10.71.57.0 u103029009 close "/images/logo@3x.png" bytes read 433061 written 0
+Jan 17 22:39:33 10.71.57.0 u103029009 [10.71.57.0|get|0|433061|0|0|0|2f696d616765732f6c6f676f4033782e706e67|]
+Jan 17 22:39:34 10.71.57.0 u103029009 open "/images/logo@2x.png" flags READ mode 0666
+Jan 17 22:39:34 10.71.57.0 u103029009 open "/images/logo1.png" flags READ mode 0666
+Jan 17 22:39:34 10.71.57.0 u103029009 close "/images/logo1.png" bytes read 94323 written 0
+Jan 17 22:39:34 10.71.57.0 u103029009 [10.71.57.0|get|0|94323|0|0|0|2f696d616765732f6c6f676f312e706e67|]
+Jan 17 22:39:34 10.71.57.0 u103029009 close "/images/logo@2x.png" bytes read 256775 written 0
+Jan 17 22:39:34 10.71.57.0 u103029009 [10.71.57.0|get|0|256775|0|0|0|2f696d616765732f6c6f676f4032782e706e67|]
+Jan 17 22:39:34 10.71.57.0 u103029009 open "/images/logo.png" flags READ mode 0666
+Jan 17 22:39:34 10.71.57.0 u103029009 open "/images/degrade bas.png" flags READ mode 0666
+Jan 17 22:39:34 10.71.57.0 u103029009 close "/images/degrade bas.png" bytes read 74168 written 0
+Jan 17 22:39:34 10.71.57.0 u103029009 [10.71.57.0|get|0|74168|0|0|0|2f696d616765732f64656772616465206261732e706e67|]
+Jan 17 22:39:34 10.71.57.0 u103029009 close "/images/logo.png" bytes read 113889 written 0
+Jan 17 22:39:34 10.71.57.0 u103029009 [10.71.57.0|get|0|113889|0|0|0|2f696d616765732f6c6f676f2e706e67|]
+Jan 17 22:39:34 10.71.57.0 u103029009 open "/images/3x.png" flags READ mode 0666
+Jan 17 22:39:34 10.71.57.0 u103029009 open "/images/projet/communication/devanture delicate saine.jpg" flags READ mode 0666
+Jan 17 22:39:34 10.71.57.0 u103029009 close "/images/projet/communication/devanture delicate saine.jpg" bytes read 76225 written 0
+Jan 17 22:39:34 10.71.57.0 u103029009 [10.71.57.0|get|0|76225|0|0|0|2f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f646576616e747572652064656c6963617465207361696e652e6a7067|]
+Jan 17 22:39:34 10.71.57.0 u103029009 close "/images/3x.png" bytes read 433652 written 0
+Jan 17 22:39:34 10.71.57.0 u103029009 [10.71.57.0|get|0|433652|0|0|0|2f696d616765732f33782e706e67|]
+Jan 17 22:39:34 10.71.57.0 u103029009 open "/images/projet/communication/affiche delicate et saine.jpg" flags READ mode 0666
+Jan 17 22:39:35 10.71.57.0 u103029009 open "/images/projet/communication/delicate saine.jpg" flags READ mode 0666
+Jan 17 22:39:35 10.71.57.0 u103029009 close "/images/projet/communication/delicate saine.jpg" bytes read 17242 written 0
+Jan 17 22:39:35 10.71.57.0 u103029009 [10.71.57.0|get|0|17242|0|0|0|2f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f64656c6963617465207361696e652e6a7067|]
+Jan 17 22:39:35 10.71.57.0 u103029009 open "/images/projet/creation graphique/west.jpg" flags READ mode 0666
+Jan 17 22:39:35 10.71.57.0 u103029009 close "/images/projet/creation graphique/west.jpg" bytes read 78217 written 0
+Jan 17 22:39:35 10.71.57.0 u103029009 [10.71.57.0|get|0|78217|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f776573742e6a7067|]
+Jan 17 22:39:35 10.71.57.0 u103029009 open "/images/projet/creation graphique/trap trunks.jpg" flags READ mode 0666
+Jan 17 22:39:35 10.71.57.0 u103029009 close "/images/projet/creation graphique/trap trunks.jpg" bytes read 157101 written 0
+Jan 17 22:39:35 10.71.57.0 u103029009 [10.71.57.0|get|0|157101|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f74726170207472756e6b732e6a7067|]
+Jan 17 22:39:35 10.71.57.0 u103029009 open "/images/projet/creation graphique/str8drop.jpg" flags READ mode 0666
+Jan 17 22:39:36 10.71.57.0 u103029009 close "/images/projet/creation graphique/str8drop.jpg" bytes read 119181 written 0
+Jan 17 22:39:36 10.71.57.0 u103029009 [10.71.57.0|get|1|119181|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7374723864726f702e6a7067|]
+Jan 17 22:39:36 10.71.57.0 u103029009 open "/images/projet/creation graphique/smoke.png" flags READ mode 0666
+Jan 17 22:39:37 10.71.57.0 u103029009 close "/images/projet/creation graphique/smoke.png" bytes read 1063175 written 0
+Jan 17 22:39:37 10.71.57.0 u103029009 [10.71.57.0|get|1|1063175|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f736d6f6b652e706e67|]
+Jan 17 22:39:38 10.71.57.0 u103029009 open "/images/projet/creation graphique/pop.png" flags READ mode 0666
+Jan 17 22:39:40 10.71.57.0 u103029009 close "/images/projet/creation graphique/pop.png" bytes read 878295 written 0
+Jan 17 22:39:40 10.71.57.0 u103029009 [10.71.57.0|get|2|878295|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f706f702e706e67|]
+Jan 17 22:39:40 10.71.57.0 u103029009 open "/images/projet/creation graphique/peewee.jpg" flags READ mode 0666
+Jan 17 22:39:41 10.71.57.0 u103029009 close "/images/projet/creation graphique/peewee.jpg" bytes read 243686 written 0
+Jan 17 22:39:41 10.71.57.0 u103029009 [10.71.57.0|get|1|243686|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f7065657765652e6a7067|]
+Jan 17 22:39:41 10.71.57.0 u103029009 open "/images/projet/creation graphique/nabs.jpg" flags READ mode 0666
+Jan 17 22:39:41 10.71.57.0 u103029009 close "/images/projet/creation graphique/nabs.jpg" bytes read 96920 written 0
+Jan 17 22:39:41 10.71.57.0 u103029009 [10.71.57.0|get|0|96920|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f6e6162732e6a7067|]
+Jan 17 22:39:41 10.71.57.0 u103029009 open "/images/projet/creation graphique/ill litterate.jpg" flags READ mode 0666
+Jan 17 22:39:43 10.71.57.0 u103029009 close "/images/projet/creation graphique/ill litterate.jpg" bytes read 113608 written 0
+Jan 17 22:39:43 10.71.57.0 u103029009 [10.71.57.0|get|2|113608|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f696c6c206c69747465726174652e6a7067|]
+Jan 17 22:39:44 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche3.jpg" flags READ mode 0666
+Jan 17 22:39:45 10.71.57.0 u103029009 close "/images/projet/communication/affiche delicate et saine.jpg" bytes read 12816694 written 0
+Jan 17 22:39:45 10.71.57.0 u103029009 [10.71.57.0|get|11|12816694|0|0|0|2f696d616765732f70726f6a65742f636f6d6d756e69636174696f6e2f616666696368652064656c6963617465206574207361696e652e6a7067|]
+Jan 17 22:39:46 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche3.jpg" bytes read 175942 written 0
+Jan 17 22:39:46 10.71.57.0 u103029009 [10.71.57.0|get|2|175942|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865332e6a7067|]
+Jan 17 22:39:46 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche2.jpg" flags READ mode 0666
+Jan 17 22:39:46 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche1.jpg" flags READ mode 0666
+Jan 17 22:39:48 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche2.jpg" bytes read 384753 written 0
+Jan 17 22:39:48 10.71.57.0 u103029009 [10.71.57.0|get|2|384753|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865322e6a7067|]
+Jan 17 22:39:48 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche1.jpg" bytes read 321474 written 0
+Jan 17 22:39:48 10.71.57.0 u103029009 [10.71.57.0|get|2|321474|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f636865312e6a7067|]
+Jan 17 22:39:48 10.71.57.0 u103029009 open "/images/projet/creation graphique/andoche.jpg" flags READ mode 0666
+Jan 17 22:39:48 10.71.57.0 u103029009 open "/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" flags READ mode 0666
+Jan 17 22:39:49 10.71.57.0 u103029009 close "/images/projet/creation graphique/andoche.jpg" bytes read 156264 written 0
+Jan 17 22:39:49 10.71.57.0 u103029009 [10.71.57.0|get|0|156264|0|0|0|2f696d616765732f70726f6a65742f6372656174696f6e206772617068697175652f616e646f6368652e6a7067|]
+Jan 17 22:39:49 10.71.57.0 u103029009 open "/images/projet/site/W eb 1920 \342\200\223 1.png" flags READ mode 0666
+Jan 17 22:39:52 10.71.57.0 u103029009 close "/images/projet/site/W eb 1920 \342\200\223 1.png" bytes read 2803216 written 0
+Jan 17 22:39:52 10.71.57.0 u103029009 [10.71.57.0|get|3|2803216|0|0|0|2f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320312e706e67|]
+Jan 17 22:39:53 10.71.57.0 u103029009 open "/images/projet/site/sitemma.jpg" flags READ mode 0666
+Jan 17 22:39:54 10.71.57.0 u103029009 close "/images/projet/site/sitemma.jpg" bytes read 342119 written 0
+Jan 17 22:39:54 10.71.57.0 u103029009 [10.71.57.0|get|1|342119|0|0|0|2f696d616765732f70726f6a65742f736974652f736974656d6d612e6a7067|]
+Jan 17 22:39:54 10.71.57.0 u103029009 open "/images/projet/site/site MMA.png" flags READ mode 0666
+Jan 17 22:39:54 10.71.57.0 u103029009 close "/images/projet/site/W eb 1920 \342\200\223 1@2x.jpg" bytes read 4912637 written 0
+Jan 17 22:39:54 10.71.57.0 u103029009 [10.71.57.0|get|6|4912637|0|0|0|2f696d616765732f70726f6a65742f736974652f57206562203139323020e2809320314032782e6a7067|]
+Jan 17 22:39:55 10.71.57.0 u103029009 open "/images/projet/site/next.jpg" flags READ mode 0666
+Jan 17 22:39:55 10.71.57.0 u103029009 close "/images/projet/site/next.jpg" bytes read 27011 written 0
+Jan 17 22:39:55 10.71.57.0 u103029009 [10.71.57.0|get|0|27011|0|0|0|2f696d616765732f70726f6a65742f736974652f6e6578742e6a7067|]
+Jan 17 22:39:55 10.71.57.0 u103029009 open "/images/projet/site/news1.jpg" flags READ mode 0666
+Jan 17 22:39:55 10.71.57.0 u103029009 close "/images/projet/site/site MMA.png" bytes read 803333 written 0
+Jan 17 22:39:55 10.71.57.0 u103029009 [10.71.57.0|get|1|803333|0|0|0|2f696d616765732f70726f6a65742f736974652f73697465204d4d412e706e67|]
+Jan 17 22:39:56 10.71.57.0 u103029009 open "/images/projet/site/hospital.jpg" flags READ mode 0666
+Jan 17 22:39:56 10.71.57.0 u103029009 close "/images/projet/site/news1.jpg" bytes read 506045 written 0
+Jan 17 22:39:56 10.71.57.0 u103029009 [10.71.57.0|get|1|506045|0|0|0|2f696d616765732f70726f6a65742f736974652f6e657773312e6a7067|]
+Jan 17 22:39:56 10.71.57.0 u103029009 close "/images/projet/site/hospital.jpg" bytes read 291956 written 0
+Jan 17 22:39:56 10.71.57.0 u103029009 [10.71.57.0|get|0|291956|0|0|0|2f696d616765732f70726f6a65742f736974652f686f73706974616c2e6a7067|]
+Jan 17 22:39:56 10.71.57.0 u103029009 open "/js/main.js" flags READ mode 0666
+Jan 17 22:39:56 10.71.57.0 u103029009 open "/logs/access.log.02.7.gz" flags READ mode 0666
+Jan 17 22:39:57 10.71.57.0 u103029009 close "/js/main.js" bytes read 857 written 0
+Jan 17 22:39:57 10.71.57.0 u103029009 [10.71.57.0|get|1|857|0|0|0|2f6a732f6d61696e2e6a73|]
+Jan 17 22:39:57 10.71.57.0 u103029009 close "/logs/access.log.02.7.gz" bytes read 1043 written 0
+Jan 17 22:39:57 10.71.57.0 u103029009 [10.71.57.0|get|1|1043|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e372e677a|]
+Jan 17 22:39:57 10.71.57.0 u103029009 open "/logs/access.log.02.2.gz" flags READ mode 0666
+Jan 17 22:39:57 10.71.57.0 u103029009 open "/logs/access.log.02.4.gz" flags READ mode 0666
+Jan 17 22:39:57 10.71.57.0 u103029009 close "/logs/access.log.02.2.gz" bytes read 1900 written 0
+Jan 17 22:39:57 10.71.57.0 u103029009 [10.71.57.0|get|0|1900|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e322e677a|]
+Jan 17 22:39:57 10.71.57.0 u103029009 open "/logs/access.log.02.1.gz" flags READ mode 0666
+Jan 17 22:39:57 10.71.57.0 u103029009 close "/logs/access.log.02.4.gz" bytes read 1823 written 0
+Jan 17 22:39:57 10.71.57.0 u103029009 [10.71.57.0|get|0|1823|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e342e677a|]
+Jan 17 22:39:57 10.71.57.0 u103029009 close "/logs/access.log.02.1.gz" bytes read 1307 written 0
+Jan 17 22:39:57 10.71.57.0 u103029009 [10.71.57.0|get|0|1307|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e312e677a|]
+Jan 17 22:39:57 10.71.57.0 u103029009 open "/logs/access.log.52.gz" flags READ mode 0666
+Jan 17 22:39:57 10.71.57.0 u103029009 open "/logs/sftp.log" flags READ mode 0666
